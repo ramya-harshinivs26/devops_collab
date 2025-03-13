@@ -1,6 +1,6 @@
 package com.example;
 
-public class MainJ {
+public class Main {
     public String greet() {
         return "Hello, Jenkins!"; 
     }
